@@ -3,7 +3,7 @@
 # Môn: Khoa học dữ liệu
 # Bài tập 1: Phân cụm lớp thành 3 nhóm, phân cụm sinh viên bằng thuật toán K-means
 
-Linkyoutube:
+## Linkyoutube:https://youtu.be/-hZWbBJHcRY
 
 ## Giới thiệu bài tập
 
